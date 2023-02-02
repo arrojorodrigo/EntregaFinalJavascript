@@ -1,4 +1,14 @@
-img {
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.img-card-top {
     width: 200px;
     height: 150px;
 }
+
+
